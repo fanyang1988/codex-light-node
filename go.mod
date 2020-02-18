@@ -1,4 +1,4 @@
-module github.com/eosforce/eos-light-node
+module github.com/fanyang1988/codex-light-node
 
 go 1.12
 

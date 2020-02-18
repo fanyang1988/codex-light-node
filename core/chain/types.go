@@ -1,8 +1,8 @@
 package chain
 
 import (
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
+	eos "github.com/codexnetwork/codexio-go"
+	"github.com/codexnetwork/codexio-go/ecc"
 	chaintype "github.com/eosforce/eos-light-node/eosio"
 )
 
